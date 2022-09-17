@@ -15,11 +15,11 @@ permalinks:
 menu:
   main:
     - name: About me
-      url: /Aboutme/
+      url: /about/
     - name: Research
-      url: /Research/
+      url: /research/research.md
     - name: Cirriculum
-      url: /Cirriculum/
+      url: /Cirriculum/Cirriculum.md
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
