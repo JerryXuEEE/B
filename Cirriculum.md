@@ -2,20 +2,14 @@
 title: Cirriculum
 author: JerryXu
 date: '2022-09-17'
-slug: Cirriculum
+slug: 
 categories: []
 tags: []
 ---
 
 
-<body>
-    <header>
-        <h1 style = "color : gray">This page is about my grades and curriculur acheivements</h1>
-    </header>
-    
 
-
-    <h2 id="Grades">Grades</h2> 
+<h2 id="Grades">Grades</h2> 
         <p>
             Basic Cirriculum:
             <ul>
@@ -44,18 +38,3 @@ tags: []
             THis is a trial link and image <br>
             <img src="dinosaur_small.jpg" alt="This is a dinosaur" height="171" width="200"><hr>  JerryXu EEE
         </p>
-            
-        
-        
-        <aside>
-            <h2>Navigation</h2>
-            <ul>
-                <li><a href="/Cirriculum/#Grades/">Grades</a></li>
-            </ul>
-        </aside>
-    
-
-    <footer>
-        <p>Developed by JerryXu with R,Hugo,Blogdown</p>
-    </footer>
-</body>
