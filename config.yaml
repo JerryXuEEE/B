@@ -17,9 +17,9 @@ menu:
     - name: About me
       url: /about/
     - name: Research
-      url: /research/research/
+      url: /Research/
     - name: Cirriculum
-      url: /Cirriculum/Cirriculum/
+      url: /Cirriculum/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
