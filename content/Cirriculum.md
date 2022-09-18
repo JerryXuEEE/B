@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-<h1 style = "color : gray; font-size: 50%;">This page is about my grades and curriculur acheivements</h1>
+<h1 style = "color : gray; font-size: 70%;">This page is about my grades and curriculur acheivements</h1>
 
 <h2>Page Navigation Menu</h2>
     <ul>
@@ -76,8 +76,8 @@ tags: []
 
 <h3>Essential Skills</h3>
 <ul>
-    <li>Programming Language: C,<span style="color:red ;"> Matlab</span>, Python, R, HTML</li>
-    <li>Software: EEGLab, Brainstorm, E-prime, Github, Rstudio, Endnote & Latex</li>
+    <li>Programming Language: C,<span style="color:red ;"> Matlab</span>, Python, R, HTML, CSS</li>
+    <li>Software: EEGLab, Brainstorm, E-prime, Github, Rstudio, Endnote & Latex, PPT</li>
     <li>Other Ability: Circuit Design and Built Up (Amp Circuit,Differential Circuit), Acquisation of Fundamental Semiconductor Devices (Diode, Transistor) </li>
 </ul>
 <h3>Scientific Research Skills</h3>
@@ -100,15 +100,18 @@ tags: []
 <!--此处需要插入一个视频-->    
 <p>
     The video below shows the final demonstration of our rover.
-<div class ="img"><iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="true" border="0" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe></div>
+<center><iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="true" border="0" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe></center>
+![](https://www.bilibili.com/video/BV1iJ411j7Eu?spm_id_from=333.851.header_right.history_list.click&vd_source=49bf6bfa483b8d9c0d08d7486ad66ebd)
 
 </p>
 <!--此处需要插入一个图片-->
 <P>
     The images below show the appearance of our rover during the shape recognition process and part of the project code.
-     <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle"/>
-     <hr>
+    <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle"/>
+    <div style="text_align: center; color: gray; font_size: 75%">The Rover is Detecting the Triangle</div>
+    <hr>
     <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" />
+    <div style="text_align: center; color: gray; font_size: 75%">Part of the Project Code</div>
 </P>
 <p>
     In this course, I'm mainly in charge of the shape recognition and machine vision. 
