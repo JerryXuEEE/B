@@ -99,12 +99,7 @@ tags: []
 <!--此处需要插入一个视频-->    
 <p>
     The video below shows the final demonstration of our rover.
-<video controls width="250">
-
-    <source src=".mp4"
-            type="/./about_files/video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
+<video controls width="250"><source src=".mp4" type="/./about_files/video/mp4">Sorry, your browser doesn't support embedded videos.
 </video>
 
 </p>
