@@ -7,12 +7,13 @@ categories: []
 tags: []
 ---
 
-<h1 style = "color : gray; font-size: 70%;">This page is about my grades and curriculur acheivements</h1>
+<h1 style = "color : gray; font-size: 100%;">This page is about my grades and curriculur acheivements</h1>
 
 <h2>Page Navigation Menu</h2>
     <ul>
         <li><a href="#Grades">Grades</a></li>
         <li><a href="#Faculty">Faculty</a></li>
+        <li><ul><li><a href="#Related Cirriculum">Related Cirriculum Intro</a></li></ul></li>
         <li><a href="#TDPS">Team Desin Project Skills(TDPS)</a></li>
     </ul>
 
@@ -42,34 +43,28 @@ tags: []
         <li>Advanced Brain Magnetic Resonance Imaging and Analysis : 86 </li>
     </ul> 
     <hr>
-<h3>Brief Introduction of Related Courses</h3>
+<h3 id="Related Cirriculum">Brief Introduction of Related Courses</h3>
 <p>
     Above courses and grades shown are all directly related to the scientific research field. The results of other courses such as 
     Power Engineering(95), Embeded Processors(95) can be referred to <a href="#">the Official Transcript of UESTC</a> 
     <!--此处需要成绩链接-->.
 </p>
-    <dl>
-        <dt>Engineering English</dt>
-        <dd>
-              This course is aimed at presenting essential accedmic English skills, including presentation, reading, and writing.
-            During this course, I was the TA and favoured by both the foreing teachers and UESTC teachers.
-            In this course, we had a lot of report to write to simulate acedmic paper writing, and a lot of presentations to give to simulate conference report.
-        </dd>
-        <dt>Team Design Project Skills(TDPS)</dt>
-        <dd>
-              This is a challenged and fun course which will be specifically introduced in <span href="#TDPS">the following article</span>. 
-            Generally, we (a team of 10 Students) were required to design a <strong>robotic rover</strong> to complete a series of tasks, including line tracking, shape recognization, and placing a tennis ball. 
-            In this process, I'm mainly responsible for the shape recognition module and machine vision, developed by Micro Python for OpenMV. 
-        </dd>
-        <dt>Overall Introduction of Elective Cirriculum </dt>    
-        <dd>
-            During year two and three, I have attended the a series of courses about neuroscience (8 in total). 
-        These courses consist  anatomical and cognitive theories, EEG MRI and data analysis. I'm currently studying computational neuroscience.
-        In these courses, we also have to complete a series of experiment in the labotory such as EEG Gonogo, MRI static data acquisation, and invasive electrode on mice.
-        The teachers come from different fields, including EEG, MRI, cell, and have diverse backgrounds like cs, physics or psychology.
-        Generally, these course combine scientific reseach and bsic theory to construct a basic understanding of neuroscience. 
-        </dd> 
-    </dl>
+    
+<h4>Engineering English</h4>
+<p>   This course is aimed at presenting essential accedmic English skills, including presentation, reading, and writing.
+During this course, I was the TA and favoured by both the foreing teachers and UESTC teachers.
+In this course, we had a lot of report to write to simulate acedmic paper writing, and a lot of presentations to give to simulate conference report.</p>
+<h4>Team Design Project Skills(TDPS)</h4>
+<p>    This is a challenged and fun course which will be specifically introduced in <span href="#TDPS">the following article</span>. 
+Generally, we (a team of 10 Students) were required to design a <strong>robotic rover</strong> to complete a series of tasks, including line tracking, shape recognization, and placing a tennis ball. 
+In this process, I'm mainly responsible for the shape recognition module and machine vision, developed by Micro Python for OpenMV.</p> 
+<h4>Overall Introduction of Elective Cirriculum </h4>    
+<p>    During year two and three, I have attended a series of courses about neuroscience (8 in total). 
+These courses consist  anatomical and cognitive theories, EEG MRI and data analysis. I'm currently studying computational neuroscience.
+In these courses, we also have to complete a series of experiment in the labotory such as EEG Gonogo, MRI static data acquisation, and invasive electrode on mice.
+The teachers come from different fields, including EEG, MRI, cell, and have diverse backgrounds like cs, physics or psychology.
+Generally, these course combine scientific reseach and bsic theory to construct a basic understanding of neuroscience. </p>
+    
 
 
 <h2 id="Faculty">Faculty</h2>
@@ -101,17 +96,17 @@ tags: []
 <p>
     The video below shows the final demonstration of our rover.
 <center><iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="true" border="0" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe></center>
-![](https://www.bilibili.com/video/BV1iJ411j7Eu?spm_id_from=333.851.header_right.history_list.click&vd_source=49bf6bfa483b8d9c0d08d7486ad66ebd)
+
 
 </p>
 <!--此处需要插入一个图片-->
 <P>
     The images below show the appearance of our rover during the shape recognition process and part of the project code.
     <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle"/>
-    <div style="text_align: center; color: gray; font_size: 75%">The Rover is Detecting the Triangle</div>
+    <center><div style=" color: gray; font_size: 75%">The Rover is Detecting the Triangle</div></center>
     <hr>
     <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" />
-    <div style="text_align: center; color: gray; font_size: 75%">Part of the Project Code</div>
+    <center><div style=" color: gray; font_size: 75%">Part of the Project Code</div></center>
 </P>
 <p>
     In this course, I'm mainly in charge of the shape recognition and machine vision. 
