@@ -11,9 +11,9 @@ tags: []
 
 <h2>Page Navigation Menu</h2>
     <ul>
-        <li><a href="/Cirriculum/#Grades/">Grades</a></li>
-        <li><a href="/Cirriculum/#Faculty/">Faculty</a></li>
-        <li><a href="/Cirriculum/#TDPS">Team Desin Project Skills(TDPS)</a></li>
+        <li><a href="#Grades">Grades</a></li>
+        <li><a href="#Faculty">Faculty</a></li>
+        <li><a href="#TDPS">Team Desin Project Skills(TDPS)</a></li>
     </ul>
 
 <h2 id="Grades">Grades</h2> 
@@ -99,10 +99,20 @@ tags: []
 <!--此处需要插入一个视频-->    
 <p>
     The video below shows the final demonstration of our rover.
+<video controls width="250">
+
+    <source src=".mp4"
+            type="/./about_files/video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 </p>
 <!--此处需要插入一个图片-->
 <P>
-    The image below shows the appearance of our rover during the shape recognition process.
+    The images below show the appearance of our rover during the shape recognition process and part of the project code.
+     <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle" width="40%" height="40%"/>
+    <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" width="40%" height="40%"/>
 </P>
 <p>
     In this course, I'm mainly in charge of the shape recognition and machine vision. 
@@ -111,7 +121,7 @@ tags: []
     it return a value representign its shape to the main board through UART.
     This recognition module was developed by MicroPython and contains mainly four parts: preprocessing, filtering, detection and recognition, and average and communication.
     This module was developed and tested all by myself, in which I'd encountered with a lot of obstocles such as overflow, interferrence, connection issues.
-    Overall, I was so delighed that this module successfully worked in the final demo.
+    Overall, I was so delighted that this module successfully worked in the final demo.
 
 </p>
 

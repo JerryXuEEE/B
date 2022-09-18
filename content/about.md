@@ -10,9 +10,10 @@ I'm majoring in <strong>EE</strong> and I have a profound interest in Neuroscien
 and I've been working in the team of [Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=en&oi=ao) 
 and with my tutor [Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra) 
 in <em> Key Laboratory for Neuroinformation of Medical Education </em> since the end of year one in college. 
-I have published a <strong> journal article</strong> at the <em>Brain Sciences</em> and two pieces of conferecne paper at the <em>OHBM</em>(Organization of Human Brain Mapping) 
-and the National Academic Conference of Psychology all as the first author.
+I have published a journal article at the <strong>Brain Sciences</strong> and two pieces of conferecne paper at the <strong>OHBM</strong>(Organization of Human Brain Mapping) 
+and the <strong>National Academic Conference of Psychology</strong> all as the first author.
 In November 17,I'm about to present a report at the National Academic Conference of Psychology at the Henan Normal University.   
 I have a great interest in scientific research targeted at the brain technology, believing that this is the future of the human race. 
 I think this is an arcane and grandeur field to devote to.
-![ME]<img src="/./about_files/ME.jpg" alt="" width="80%" height="80%"/>
+<h3>This is M.E.</h3>
+<img src="/./about_files/ME.jpg" alt="My profile image" width="40%" height="40%"/>
