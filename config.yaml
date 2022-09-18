@@ -21,7 +21,7 @@ menu:
     - name: Education
       url: /Cirriculum/
     - name: Life
-    url: /Life/
+      url: /Life/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
