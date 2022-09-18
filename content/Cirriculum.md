@@ -99,8 +99,7 @@ tags: []
 <!--此处需要插入一个视频-->    
 <p>
     The video below shows the final demonstration of our rover.
-<video controls width="250"><source src=".mp4" type="/./about_files/video/mp4">Sorry, your browser doesn't support embedded videos.
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 </p>
 <!--此处需要插入一个图片-->
