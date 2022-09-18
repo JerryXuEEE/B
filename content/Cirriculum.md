@@ -32,7 +32,7 @@ tags: []
         <li>Digital Signal Processing : 89 </li>
         <li>Signals and Systems : 88 </li>
         <li>Circuit Anlysis and Design : 95 </li>
-        <li><span href="/Cirriculum/#TDPS/">Team Design Project Skills(TDPS)</span> : 89 </li>
+        <li><span href="#TDPS">Team Design Project Skills(TDPS)</span> : 89 </li>
     </ul>
     <hr>
     Elective Cirriculum:
@@ -45,7 +45,8 @@ tags: []
 <h3>Brief Introduction of Related Courses</h3>
 <p>
     Above courses and grades shown are all directly related to the scientific research field. The results of other courses such as 
-    Power Engineering(95), Embeded Processors(95) can be referred to <a href="#">the Official Transcript of UESTC</a> <!--此处需要成绩链接-->.
+    Power Engineering(95), Embeded Processors(95) can be referred to <a href="#">the Official Transcript of UESTC</a> 
+    <!--此处需要成绩链接-->.
 </p>
     <dl>
         <dt>Engineering English</dt>
@@ -56,7 +57,7 @@ tags: []
         </dd>
         <dt>Team Design Project Skills(TDPS)</dt>
         <dd>
-              This is a challenged and fun course which will be specifically introduced in <span href="/Cirriculum/#TDPS/">the following article</span>. 
+              This is a challenged and fun course which will be specifically introduced in <span href="#TDPS">the following article</span>. 
             Generally, we (a team of 10 Students) were required to design a <strong>robotic rover</strong> to complete a series of tasks, including line tracking, shape recognization, and placing a tennis ball. 
             In this process, I'm mainly responsible for the shape recognition module and machine vision, developed by Micro Python for OpenMV. 
         </dd>
@@ -99,14 +100,15 @@ tags: []
 <!--此处需要插入一个视频-->    
 <p>
     The video below shows the final demonstration of our rover.
-<iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div class ="img"><iframe src="//player.bilibili.com/player.html?aid=81866594&bvid=BV1iJ411j7Eu&cid=140118614&page=1" scrolling="true" border="0" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe></div>
 
 </p>
 <!--此处需要插入一个图片-->
 <P>
     The images below show the appearance of our rover during the shape recognition process and part of the project code.
-     <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle" width="40%" height="40%"/>
-    <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" width="40%" height="40%"/>
+     <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle"/>
+     <hr>
+    <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" />
 </P>
 <p>
     In this course, I'm mainly in charge of the shape recognition and machine vision. 
