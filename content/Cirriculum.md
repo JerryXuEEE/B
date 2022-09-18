@@ -18,7 +18,7 @@ tags: []
 
 <h2 id="Grades">Grades</h2> 
 <h3>     GPA:3.78</h3>
-<p>
+<p> 
     Basic Cirriculum:
     <ul>
         <li>Calculus : 90 </li>
@@ -43,6 +43,7 @@ tags: []
     </ul> 
     <hr>
 <h3>Brief Introduction of Related Courses</h3>
+<p>Above grades shown are all related to scientific research field
     <dl>
         <dt>Engineering English</dt>
         <dd>This course is aimed at presenting essential accedmic English skills, including presentation, reading, and writing.
@@ -74,6 +75,7 @@ tags: []
     </ul>
 </p>
 <h2 id="TDPS">Team Design Project Skills(TDPS)</h2>     
+
 
 
 
