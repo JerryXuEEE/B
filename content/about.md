@@ -15,4 +15,4 @@ and the National Academic Conference of Psychology all as the first author.
 In November 17,I'm about to present a report at the National Academic Conference of Psychology at the Henan Normal University.   
 I have a great interest in scientific research targeted at the brain technology, believing that this is the future of the human race. 
 I think this is an arcane and grandeur field to devote to.
-<img src="/./about_files/Profile.jpg" alt="This is M.E" width="80%" height="80%"/>
+![ME]<img src="/./about_files/ME.jpg" alt="" width="80%" height="80%"/>
