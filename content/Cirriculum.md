@@ -61,7 +61,6 @@ tags: []
             In this process, I'm mainly responsible for the shape recognition module and machine vision, developed by Micro Python for OpenMV. 
         </dd>
         <dt>Overall Introduction of Elective Cirriculum </dt>    
-        
         <dd>
             During year two and three, I have attended the a series of courses about neuroscience (8 in total). 
         These courses consist  anatomical and cognitive theories, EEG MRI and data analysis. I'm currently studying computational neuroscience.
