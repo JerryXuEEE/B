@@ -12,7 +12,7 @@ and with my tutor [Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl
 in <em> Key Laboratory for Neuroinformation of Medical Education </em> since the end of year one in college. 
 I have published a journal article at the <strong>Brain Sciences</strong> and two pieces of conferecne paper at the <strong>OHBM</strong>(Organization of Human Brain Mapping) 
 and the <strong>National Academic Conference of Psychology</strong> all as the first author.
-In November 17,I'm about to present a report at the National Academic Conference of Psychology at the Henan Normal University.   
+In November 25,I'm about to present a report at the National Academic Conference of Psychology at the Henan Normal University.   
 I have a great interest in scientific research targeted at the brain technology, believing that this is the future of the human race. 
 I think this is an arcane and grandeur field to devote to.
 <h3>This is M.E.</h3>

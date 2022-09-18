@@ -13,7 +13,7 @@ tags: []
     <ul>
         <li><a href="#Grades">Grades</a></li>
         <li><a href="#Faculty">Faculty</a></li>
-        <li><ul><li><a href="#Related Cirriculum">Related Cirriculum Intro</a></li></ul></li>
+        <ul><li><a href="#Related Cirriculum">Related Cirriculum Intro</a></li></ul>
         <li><a href="#TDPS">Team Desin Project Skills(TDPS)</a></li>
     </ul>
 
