@@ -54,7 +54,7 @@ Due to many treatured memories in high school, we, five boys separated all aroun
 <p>
 Two of my class friends, Ben and Russel, have brought me much fun as their company in many classes. Most of the time, we do the class project and curriculum experiments and study for tests with each other. We sometimes even argue with each other as we have different research interests. Ben is interested in finance and is now committed to Peking University for a master's. Russel is interested in deep learning and has a very high GPA. Both positively influenced my college study, which I'm forever grateful for.
 </p>
-<center><img src="/./about_files/Ben.jpg" alt="One of My Class Friends: Ben" title="Ben is 'happy' for his birthday presents"  width="40%" height="40%"/></center>
+<center><img src="/./about_files/Ben.jpg" alt="One of My Class Friends: Ben" title="Ben is 'happy' for his birthday presents"  width="80%" height="80%"/></center>
     <center><div style=" color: gray; font_size: 75%">One of my class friends: Ben and his best birthday presents</div></center>
 <h3 id="Club">Club</h3>
 <p>
@@ -63,13 +63,13 @@ In college, I joined our school's music club, named Ginkgo Music. It is a massiv
 <center><div style=" color: gray; font_size: 75%">This is a photo after a performance. We are the core persons in this massive club </div></center>
 <p>In this club, I made adorable friends who were even invited to my home. They have brought a lot of fun to my college life out of class. Without them, my college life would be tedious study and countless tests. They are part of the reason for my colorful college life.
 </p>
-<img src="/./about_files/party.jpg" alt="A Birthday Party with Club Friends " title="This is a birthday party. We are close friends from the music club "/>
+<img src="/./about_files/party.jpg" alt="A Birthday Party with Club Friends " title="This is a birthday party. We are close friends from the music club width="80%" height="80%" "/>
 <center><div style=" color: gray; font_size: 75%">A birthday party </div></center>
 <h3 id="HotPot">HotPot Friends</h3>
 <p>
 As a Chengduer, I'm so obsessed with HotPot, and so are my friends. They are my previous high school classmates, as I transferred class once in high school. One of them is the respectful guitar enlightener I mentioned in part about <a href="#GuitarFriend">my Guitar</a>. After graduation, we play the Rainbow Six from time to time. One common hobby we share is the obsession with HotPot that united us once a semester. We even call each other inmates as if we were in some "Drug Treatment Center". 
 </p>
-<center><img src="/./about_files/HotPot.jpeg" alt="A Photo of Our HotPot Union " title=" We played a trick on the absent friend who was in Japan for college at that time " width="60%" height="60%"/></center>
+<center><img src="/./about_files/HotPot.jpeg" alt="A Photo of Our HotPot Union " title=" We played a trick on the absent friend who was in Japan for college at that time " width="80%" height="80%"/></center>
 <center><div style=" color: gray; font_size: 75%">"HotPot" Friends: in Memory of our absent "inmate" </div></center>
 <h3 id="#Girlfriend">Girlfriend</h3>
 <p>
