@@ -7,5 +7,5 @@ slug: []
 categories: []
 tags: []
 ---
-<img src="/./about_files/Transcript1.png" alt="Transcript1" title="Transcript1"/>
-<img src="/./about_files/Transcript2.png" alt="Transcript2" title="Transcript2"/>
+<img src="/./about_files/Transcript1.jpg" alt="Transcript1" title="Transcript1"/>
+<img src="/./about_files/Transcript2.jpg" alt="Transcript2" title="Transcript2"/>

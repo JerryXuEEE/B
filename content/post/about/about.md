@@ -8,7 +8,7 @@ My name is Jerry Xu (Ruijie Xu). I'm a year four <strong>undergraduate student</
 As the first author, I have published a journal article at the <strong>Brain Sciences</strong> and two pieces conference paper at the <strong>OHBM</strong>(Organization of Human Brain Mapping) and the <strong>National Academic Conference of Psychology</strong>. On November 25, I'm about to present a report at the National Academic Conference of Psychology at the Henan Normal University.
 </p>
 <p>
-As for <a href="/././Curriculum/Curriculum/" title="Grades and Cuuriculum Introduction">curriculum</a> (<strong>GPA 3.78</strong>), besides EE courses, I have attended many elective courses about neuroscience. Three years of college life and research experience have equipped me with rigorous experimental thinking, research reviewing skills, and a collective interdisciplinary mind. I have mastered prevelant programming language including C, Matlab, Python, R, HTML and CSS and other critical <a href="/./Curriculum/Curriculum/#Faculty/" title="Faculty">faculties</a>.
+As for <a href="/./Curriculum/Curriculum/" title="Grades and Cuuriculum Introduction">curriculum</a> (<strong>GPA 3.78</strong>), besides EE courses, I have attended many elective courses about neuroscience. Three years of college life and research experience have equipped me with rigorous experimental thinking, research reviewing skills, and a collective interdisciplinary mind. I have mastered prevelant programming language including C, Matlab, Python, R, HTML and CSS and other critical <a href="/./Curriculum/Curriculum/#Faculty/" title="Faculty">faculties</a>.
 </p> 
 <p>
 I am greatly intersted in scientific research targeted at brain technology, believing that this is the future of the human race. 

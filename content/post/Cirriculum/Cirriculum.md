@@ -27,7 +27,7 @@ tags: []
     </ul>
 
 <h2 id="Grades">Grades</h2> 
-<h3>     GPA:3.78</h3>
+<h3>GPA:3.78</h3>
 <p> 
     Basic Curriculum:
     <ul>
@@ -36,7 +36,6 @@ tags: []
         <li>Programming : 86 </li>
         <li>Engineering English : 85 </li>
     </ul>
-    <hr>
     Specialized Curriculum: 
     <ul>
         <li>Digital Signal Processing : 89 </li>
@@ -44,21 +43,18 @@ tags: []
         <li>Circuit Anlysis and Design : 95 </li>
         <li><span href="#TDPS">Team Design Project Skills(TDPS)</span> : 89 </li>
     </ul>
-    <hr>
     Elective Cirriculum:
     <ul>
         <li>An Introduction to Cognitive Neuroscience : 89 </li>
         <li>The Anatomical Basis of Brain-Intellignece Congnition  : 90 </li>
         <li>Advanced Brain Magnetic Resonance Imaging and Analysis : 86 </li>
     </ul> 
-    <hr>
-<h3 >Brief Introduction of Related Courses</h3>
 <p>
     Above courses and grades shown are all directly related to the scientific research field. The results of other courses such as 
     Power Engineering(95), Embeded Processors(95) can be referred to the <a href="#">Official Transcript of UESTC</a> 
     <!--此处需要成绩链接-->.
 </p>
-    
+<h3 >Brief Introduction of Related Courses</h3>    
 <h4 id="Related1">Engineering English</h4>
 <p>This course aims to improve essential <strong>academic English skills</strong>, including presentation, reading, and writing.
 During this course, I was the TA and was commended by both foreign and UESTC teachers.
@@ -93,7 +89,7 @@ Generally, these courses combine scientific research and basic theory to constru
     the sense of achievement in making progress in scientific research.
 </p>
     
-<h2 id="Awards">Awards</p>
+<h2 id="Awards">Awards</h2>
 <ul>
     <li>Exellent Student Scholarship</li>
     <li>Innovative Student Scholarship</li>
@@ -111,21 +107,18 @@ Generally, these courses combine scientific research and basic theory to constru
 
 <P>
     The images below show the appearance of our rover during the shape recognition process and part of the project code.
-    <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle"/>
+    <img src="/./about_files/TDPS_demo.png" alt="Rover appearance" title="Rover is detecting the triangle" width="80%" height="80%"/>
     <center><div style=" color: gray; font_size: 75%">The Rover is Detecting the Triangle</div></center>
-    <hr>
-    <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" />
+    <img src="/./about_files/TDPS_code.jpg" alt="Part of the project code" title="Part of the code for TDPS" width="80%" height="80%" />
     <center><div style=" color: gray; font_size: 75%">Part of the Project Code</div></center>
 </P>
 <p>
-    In this course, I'm mainly in charge of shape recognition and machine vision. 
-    In our rover, we decided to apply the OpenMV due to convenience and portability. 
-    The camera, OpenMV, was connected to the main board. As long as it detects the target and successfully recognizes its shape, 
-    it returns a value representing its shape to the main board through UART.
-    This recognition module was developed by <strong>MicroPython</strong> and contained mainly four parts: preprocessing, filtering, detection and recognition, and average and communication.
-    This module was developed and tested all by myself, in which I encountered a lot of obstacles such as overflow, interference, and connection issues.
-    Overall, I was so delighted that this module successfully worked in the final demo.
-
+In this course, I'm mainly in charge of shape recognition and machine vision. In our rover, we decided to apply the OpenMV due to convenience and portability. 
+The camera, OpenMV, was connected to the main board. As long as it detects the target and successfully recognizes its shape, 
+it returns a value representing its shape to the main board through UART.</p>
+<p>This recognition module was developed by <strong>MicroPython</strong> and contained mainly four parts: preprocessing, filtering, detection and recognition, and average and communication.
+This module was developed and tested all by myself, in which I encountered a lot of obstacles such as overflow, interference, and connection issues.
+Overall, I was so delighted that this module successfully worked in the final demo.
 </p>
 
 

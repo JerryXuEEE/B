@@ -60,7 +60,7 @@ THis research is the "predecessor" of my journal article. It is about the neural
 As I'm mainly intersted in the asymmetry, besides power spectrum, I did the Source Localization and functionaly connectivity and found that significant discrepancy could be obeserved in the frontal-parietal region.
 </p>
 <img src="/./about_files/OHBM.jpg" alt="The Results of OHBM article" title="The Results of the OHBM article"/>
-<center><div style=" color: gray; font_size: 75%"> The results of the OHBM article: <br><span style="font-size:70%">In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity  </span></div></center>
+<div style=" color: gray; font_size: 75%"> The results of the OHBM article: <br><span style="font-size:70%">In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity. More prominent asymmetric connectivity in FPN could be observed in guitarists  </span></div>
 
 </p>
 <h3 id="Ach2">Different Music Training Modulates Theta Oscillation Associated with Executive Control<em>Brain Sciences</em></h3>
@@ -75,10 +75,10 @@ In the data anlysis, we tried multiple ways such as ERP, time-frequency analysis
 </p>
 <img src="/./about_files/B2.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
 <p  style=" color: gray; font_size: 70%">The result one of the <em>Brain Sciences</em> article: </p>
-<center><span style="font-size:60%">  (A) Group mean difference between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure) in theta power. The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C3. (B) Group mean difference in theta power between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure). The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C4.</center>
+<span style="font-size:60%">  (A) Group mean difference between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure) in theta power. The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C3. (B) Group mean difference in theta power between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure). The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C4.
 <img src="/./about_files/B3.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
 <p style=" color: gray; font_size: 70%">The result two of the <em>Brain Sciences</em> article: </p>
-<center><div style=" color: gray; font_size: 65%">Functional connectivity within the executive functional network based on PLV, the color of the color bar represents the size of the t value. (A) Differences between string musicians and the control group (p < 0.05). (B) Differences between pianists and the control group (p < 0.05).</center>
+<div style=" color: gray; font_size: 65%">Functional connectivity within the executive functional network based on PLV, the color of the color bar represents the size of the t value. (A) Differences between string musicians and the control group (p < 0.05). (B) Differences between pianists and the control group (p < 0.05).
 <h3 id="Ach3"><em>National Academic Conference of Psychology</em></h3>
 <p>
 This abstract reports the theta oscillation we found on musicians compared with nonmusicians. It was submitted and accepted by the conference at 2022.7. Finally, I will be presenting this report at the Henan Normal University in 2022,11,25. Afterwards, the abstract will be published on the cnki.net.
