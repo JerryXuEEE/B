@@ -59,7 +59,7 @@ THis research is the "predecessor" of my journal article. It is about the neural
 <p>
 As I'm mainly intersted in the asymmetry, besides power spectrum, I did the Source Localization and functionaly connectivity and found that significant discrepancy could be obeserved in the frontal-parietal region.
 </p>
-<img scr="/./about_files/OHBM.jpg" alt="The Results of OHBM article" title="The Results of the OHBM article">
+<img scr="/./about_files/OHBM.jpg" alt="The Results of OHBM article" title="The Results of the OHBM article"/>
 <p>The results of the OHBM article: <br><span style="font-size:80%">In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity  </span>
 </p>
 </p>
@@ -73,8 +73,8 @@ As a fan of guitar, I've been curious about the different changes that different
 <p>
 In the data anlysis, we tried multiple ways such as ERP, time-frequency analysis, and functional connectivity. In ERP anlysis, we found that pianists have significantly earlier and lower P2 components. This result was supported by many other researches about executive function comparison. Then in time-frequency analysis, we found that pianists outperformed string musicians in theta power in 500-800ms after the stimulus. This implies that the pianists have greater theta activity. It could result from their bimanual training scheme, which requires much more focus and correlation. These are all fundamental elements in executive control. Therefore, we believe that different music training could relate to executive function in theta oscillation to different content. This is futher verified by functional connectivity, in which we applied executive control model and found that the frontal-parietal connectivity has been greatly enhanced in the pianists. We also found asymmetric connectivity. 
 </p>
-<img scr="/./about_files/B2.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article">
-<img scr="/./about_files/B3.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article">
+<img scr="/./about_files/B2.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
+<img scr="/./about_files/B3.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
 
 <h3 id="Ach3"><em>National Academic Conference of Psychology</em></h3>
 <p>
