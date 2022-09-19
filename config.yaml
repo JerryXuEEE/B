@@ -15,13 +15,13 @@ permalinks:
 menu:
   main:
     - name: About me
-      url: /about/
+      url: /post/about/about/
     - name: Research
-      url: /Research/
+      url: /post//Research/Research/
     - name: Education
-      url: /Cirriculum/
+      url: /post/Cirriculum/Cirriculum/
     - name: Life
-      url: /Life/
+      url: /post/Life/Life/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
