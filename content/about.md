@@ -16,4 +16,4 @@ I think this is an arcane and grandeur field to devote to.
 </p>
 <hr>
 <h3>This is M.E.</h3>
-<img src="/./about_files/ME.jpg" alt="My profile image" width="40%" height="40%"/>
+<img src="/../about_files/ME.jpg" alt="My profile image" width="40%" height="40%"/>
