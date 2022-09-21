@@ -15,11 +15,11 @@ permalinks:
 menu:
   main:
     - name: About Me
-      url: /about/
+      url: /about/about
     - name: Publishment
       url: /Research/
     - name: Education
-      url: /Cirriculum/
+      url: /Cirriculum/Cirriculum
     - name: Life
       url: /Life/
 params:
