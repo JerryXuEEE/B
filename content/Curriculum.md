@@ -51,8 +51,7 @@ tags: []
     </ul> 
 <p>
     Above courses and grades shown are all directly related to the scientific research field. The results of other courses such as 
-    Power Engineering(95), Embeded Processors(95) can be referred to the <a href="#">Official Transcript of UESTC</a> 
-    <!--此处需要成绩链接-->.
+    Power Engineering(95), Embeded Processors(95) can be referred to the <a href="/./Official Transcript of UESTC/">Official Transcript of UESTC</a> 
 </p>
 <h3 >Brief Introduction of Related Courses</h3>    
 <h4 id="Related1">Engineering English</h4>
