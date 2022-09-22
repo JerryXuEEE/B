@@ -22,7 +22,7 @@ tags: []
 <p>
     <dl style="font-size:80%">
     <dt><strong>2020.9.10</strong>:</dt>
-    <dd>Selected into the <em> Key Laboratory for Neuroinformation of Medical Education </em> by my tutor <a heref="https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra"> Lu Jing </a> <br>
+    <dd>Selected into the <em> Key Laboratory for Neuroinformation of Medical Education </em> by my tutor <a href="https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra"> Jing Lu </a> <br>
     Selected into a scientific research and education program held by the School of Life Science and Technology</dd>'
     <dt><strong>2020.10</strong>-<strong>2020.12</strong>:</dt>
     <dd>Studying basic knowledge about brain, reading papaer and helping out in the lab conducting EEG experiment</dd>
@@ -85,7 +85,7 @@ This abstract reports the theta oscillation we found on musicians compared with 
 </p>
 <h2 id="Interests">Interests in Neuroscience </h2>
 <p>
-Three years of research experience in the <em>Key Laboratory for Neuroinformation of Medical Education</em> 
+Three years of research experience in the <em>Key Laboratory for Neuroinformation of Medical Education</em>   
 have equipped me with rigorous experimental thinking, research reviewing skills, and cooperative interdiscipline mind.
 I'm also a quick learner. I spent one month on the EEG data processing tools with the help of my senior, Dr Long.
 In everday life, I enjoy quietly doiing my own stuff from day to night. I always find peace and fulfillment in such a quiet time.
@@ -95,4 +95,7 @@ the sense of achievement of making progress in scientific research.
 </p>
 <p>
 I'm really intersted in the neuroscience not only because I like the myterious part of such a charming organ, but also due to my day dream of astonished discovery that blazes a brandnew world. In my following research, I'm intersted in the computational neuroscience as I'm a science student. Neuroscience is an interdiscpline subject. I want to take the advantage of my research background on cognitive neuroscience and EE major, and devote into applying computer technology to discover more intersting facts about the brain.
+</p>
+<p>
+Special thanks to my tutor <a href="https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra"> Lu</a>, who has given me precious opportunities to learn and work in this lovely Lab. I would like to show my forever grattitude for his cultivations and my respect for his dedications from the bottom of my heart.
 </p>
