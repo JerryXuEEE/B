@@ -10,11 +10,11 @@ tags: []
 <h2>Page Navigation Menu</h2>
     <ul>
         <li><a href="#Timeline">Research Experience Timeline</a></li>
-        <li><a href="#Achievement">Achievements</a></li>       
+        <li><a href="#Achievement">Publishments</a></li>       
         <ul>
-            <li><a href="#Ach1">Conference Abstract:<br><span style="font-size:90%">The Neural Asymmetry Deviations Between Guitarists and Pianists</span> OHBM (Organization of Human Brain Mapping)</a></li>
-            <li><a href="#Ach2">Journal Article: <span style="font-size:90%">Different Music Training Modulates Theta Oscillation Associated with Executive Control</span>Brain Sciences</a></li>
-            <li><a href="#Ach3">Conference: National Academic Conference of Psychology</li>                      
+            <li><a href="#Ach1"> OHBM (Organization of Human Brain Mapping)<br><span style="font-size:90%">The Neural Asymmetry Deviations Between Guitarists and Pianists</span></a></li>
+            <li><a href="#Ach2">Journal Article(At Press)<br><span style="font-size:90%">Different Music Training Modulates Theta Oscillation Associated with Executive Control</span></a></li>
+            <li><a href="#Ach3">National Academic Conference of Psychology</li>                      
         </ul>        
         <li><a href="#Interests">Interests in Neuroscience</a></li>
     </ul>
@@ -43,18 +43,15 @@ tags: []
     </dd> 
     <dt><strong>2022.7</strong>-<strong>2021.8</strong>:</dt>
     <dd>Writing and Submitting the journal article: Different Music Training Modulates Theta Oscillation Associated with Executive Control
-    </dd> 
-    <dt><strong>2022.9</strong>:</dt>  
-    <dd>Brain Sciences has accepted the journal article<br>
-    </dd>        
+    </dd>     
     </dl>
 </p> 
-<h2 id="Achievement">Achievements </h2>
+<h2 id="Achievement">Publishments </h2>
 <h3 id="Ach1">The Neural Asymmetry Deviations Between Guitarists and Pianists <em> OHBM (Organization of Human Brain Mapping)</em></h3>
 <p>
-This abstract was accepted in 2021.12.15. Unfortunately, the conference was held in Glasgow in 2022.7, which I was not able to attend due to the pandamic. Anyway, I uploaded a 5 minustes video recording the oral  report about my research.</p>
+This abstract was accepted in 2021.12.15. The conference took place in Glasgow in 2022.7, which I was not able to attend due to the pandamic. I uploaded a 5 minustes video recording the oral report about my research.</p>
 <p>
-THis research is the "predecessor" of my journal article. It is about the neural asymmetry of pianists and guitarists. We recruited 10 guitarists, 10 pianists and 10 nonmusicians and collected their EEG signals when performing a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm. 
+This research is the "predecessor" of my journal article. It is about the neural asymmetry of pianists and guitarists. We recruited 10 guitarists, 10 pianists and 10 nonmusicians and collected their EEG signals when performing a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm. 
 </p>
 <p>
 As I'm mainly intersted in the asymmetry, besides power spectrum, I did the Source Localization and functionaly connectivity and found that significant discrepancy could be obeserved in the frontal-parietal region.
@@ -63,39 +60,33 @@ As I'm mainly intersted in the asymmetry, besides power spectrum, I did the Sour
 <div style=" color: gray; font_size: 75%"> The results of the OHBM article: <br><span style="font-size:70%">In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity. More prominent asymmetric connectivity in FPN could be observed in guitarists  </span></div>
 
 </p>
-<h3 id="Ach2">Different Music Training Modulates Theta Oscillation Associated with Executive Control<em>Brain Sciences</em></h3>
+<h3 id="Ach2">Different Music Training Modulates Theta Oscillation Associated with Executive Control</h3>
 <p>
-This article was submitted to <em>Brain Sciences</em> in 2022.8. 
+This article was submitted in 2022.8. 
 </p>  
 <p>
-As a fan of guitar, I've been curious about the different changes that different music instruments could bring to our brain. As I reviewed more and more literature about this topic, I began to realise the difference should be related to the higher order brain plasticity instead of only structural neural asymmetry. Therefore, I have shifted my focus from asymmetry to the executive control, which discribes the ability that our brain instructs the motion and some other elements.Then, we continously recuited 20 string musicians, 20 pianists and 20 non-musicians to conduct a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm while collecting their neural activity by EEG.  
+This research is about the executive control comparing pianists and string musicians.
 </p>
-<p>
-In the data anlysis, we tried multiple ways such as ERP, time-frequency analysis, and functional connectivity. In ERP anlysis, we found that pianists have significantly earlier and lower P2 components. This result was supported by many other researches about executive function comparison. Then in time-frequency analysis, we found that pianists outperformed string musicians in theta power in 500-800ms after the stimulus. This implies that the pianists have greater theta activity. It could result from their bimanual training scheme, which requires much more focus and correlation. These are all fundamental elements in executive control. Therefore, we believe that different music training could relate to executive function in theta oscillation to different content. This is futher verified by functional connectivity, in which we applied executive control model and found that the frontal-parietal connectivity has been greatly enhanced in the pianists. We also found asymmetric connectivity. 
-</p>
-<img src="/./about_files/B2.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
-<p  style=" color: gray; font_size: 70%">The result one of the <em>Brain Sciences</em> article: </p>
-<div style="font-size:60%">  (A) Group mean difference between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure) in theta power. The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C3. (B) Group mean difference in theta power between three groups (string musicians showed as String in the figure, pianists showed as Piano in the figure, the control group showed as Control in the figure). The measurements reflect the mean theta (4-7 Hz) power between 500 and 800 post-stimulus from C4.</div>
-<img src="/./about_files/B3.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article"/>
-<p style=" color: gray; font_size: 70%">The result two of the <em>Brain Sciences</em> article: </p>
-<div style=" color: gray; font_size: 65%">Functional connectivity within the executive functional network based on PLV, the color of the color bar represents the size of the t value. (A) Differences between string musicians and the control group (p < 0.05). (B) Differences between pianists and the control group (p < 0.05).</div>
 <h3 id="Ach3"><em>National Academic Conference of Psychology</em></h3>
 <p>
-This abstract reports the theta oscillation we found on musicians compared with nonmusicians. It was submitted and accepted by the conference at 2022.7. Finally, I will be presenting this report at the Henan Normal University in 2022,11,25. Afterwards, the abstract will be published on the cnki.net.
+This abstract was accepted by the conference at 2022.7. I will be presenting this report at the Henan Normal University in 2022,11,25. Afterwards, the abstract will be published on the cnki.net.
+</p>
+<p>
+This article is about the executive control in musicians compared with non-musicians.
 </p>
 <h2 id="Interests">Interests in Neuroscience </h2>
 <p>
 Three years of research experience in the <em>Key Laboratory for Neuroinformation of Medical Education</em>   
-have equipped me with rigorous experimental thinking, research reviewing skills, and cooperative interdiscipline mind.
-I'm also a quick learner. I spent one month on the EEG data processing tools with the help of my senior, Dr Long.
-In everday life, I enjoy quietly doiing my own stuff from day to night. I always find peace and fulfillment in such a quiet time.
+have equipped me with rigorous experimental thinking, research reviewing skills, and a cooperative interdisciplinary mind.
+I'm also a quick learner. I spent one month on the EEG data processing tools with the help of my senior, Dr. Long.
+In everyday life, I enjoy quietly doing my stuff from day to night. I always find peace and fulfillment in such a quiet time.
 I'm fully aware of the process and hardship of scientific research, more specifically, of publishing a journal article. 
-Still, I constantly find myself immersed in the process of learning new things, the amazement at novel discovery, and 
-the sense of achievement of making progress in scientific research. 
+Still, I constantly find myself immersed in the process of learning new things, amazing at novel discovery, and 
+the sense of achievement in making progress in scientific research. 
 </p>
 <p>
-I'm really intersted in the neuroscience not only because I like the myterious part of such a charming organ, but also due to my day dream of astonished discovery that blazes a brandnew world. In my following research, I'm intersted in the computational neuroscience as I'm a science student. Neuroscience is an interdiscpline subject. I want to take the advantage of my research background on cognitive neuroscience and EE major, and devote into applying computer technology to discover more intersting facts about the brain.
+I'm interested in neuroscience not only because I like the mysterious part of the brain, but also due to my dream of astonishing discovery that blazes a brand-new world. In my following research, I'm interested in computational neuroscience as I'm a science student. Neuroscience is an inter discipline field. I want to take advantage of my research background in cognitive neuroscience and EE major and devote myself to applying computer technology to discover more interesting facts about the brain.
 </p>
 <p>
-Special thanks to my tutor <a href="https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra"> Lu</a>, who has given me precious opportunities to learn and work in this lovely Lab. I would like to show my forever grattitude for his cultivations and my respect for his dedications from the bottom of my heart.
+Special thanks to my tutor <a href="https://scholar.google.com/citations?user=OLWmCDYAAAAJ&hl=en&oi=sra"> Lu</a>, who has given me precious opportunities to learn and work in this lovely Lab. I want to show my forever gratitude for his cultivation and respect for his dedication from the bottom of my heart.
 </p>
