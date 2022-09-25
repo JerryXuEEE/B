@@ -6,7 +6,7 @@ slug: Research
 categories: []
 tags: []
 ---
-<h1 style = "color : gray; font-size: 100%;">This page is about my publishmens and article details.</h1>
+<h1 style = "color : gray; font-size: 100%;">This page is about my research experience.</h1>
 <h2>Page Navigation Menu</h2>
     <ul>     
         <li><a href="#Interests">Interests in Neuroscience</a></li>
@@ -15,7 +15,7 @@ tags: []
 
 <h2 id="Interests">Interests in Neuroscience </h2>
 <p>
-Three years of research experience in the <em>Key Laboratory for Neuroinformation of Medical Education</em>   
+Two years of research experience in the <em>Key Laboratory for Neuroinformation of Medical Education</em>   
 have equipped me with rigorous experimental thinking, research reviewing skills, and a cooperative interdisciplinary mind.
 I'm also a quick learner. I spent one month on the EEG data processing tools with the help of my senior, Dr. Long.
 In everyday life, I enjoy quietly doing my stuff from day to night. I always find peace and fulfillment in such a quiet time.
