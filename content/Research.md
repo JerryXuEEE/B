@@ -28,6 +28,7 @@ This abstract was accepted in 2021.12.15. The conference took place in Glasgow i
 <p>
 This research is about the neural asymmetry of pianists and guitarists. We recruited 10 guitarists, 10 pianists and 10 nonmusicians and collected their EEG signals when performing a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm. 
 </p>
+<img scr="/./about_files/OHBM.jpg" alt="The Results of OHBM article" title="The Results of the OHBM article">
 <p>
 In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity. More prominent asymmetric connectivity in FPN could be observed in guitarists</p>
 
@@ -39,6 +40,7 @@ This article has already been accpeted by <em>Brain Sciences</em> at 2022,9.24 i
 In the data anlysis, we applied ERP (Event-related potentials), time-frequency analysis, and functional connectivity. In ERP anlysis, we found that pianists have significantly earlier and lower P2 components. This result was supported by many other researches about executive function comparison. Then in time-frequency analysis, we found that pianists outperformed string musicians in theta power in 500-800ms after the stimulus. This implies that the pianists have greater theta activity. It could result from their bimanual training scheme, which requires much more focus and correlation. These are all fundamental elements in executive control. Therefore, we believe that different music training could relate to executive function in theta oscillation to different content. This is futher verified by functional connectivity, in which we applied executive control model and found that the frontal-parietal connectivity has been greatly enhanced in the pianists. We also found asymmetric connectivity. 
 </p>
 <img scr="/./about_files/B2.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article">
+<img scr="/./about_files/B3.jpg" alt="The Results of Brain Sciences article" title="The Results of the Brain Sciences article">
 
 
 <h3 id="Ach3">National Academic Conference of Psychology</h3>
