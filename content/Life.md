@@ -18,9 +18,7 @@ tags: []
             <li><a href="#Class Friends">College Class Friends</a></li>
             <li><a href="#Club">Club</a></li>
             <li><a href="#HotPot">HotPot Friends</a></li>
-            <li><a href="#Girlfriend">Girlfriend</a></li>
-            </ul>
-        <li><a href="#Family">Family</a></li>     
+            </ul>    
     </ul>
 <h2 id="Music">Music-Guitar</h2> 
 <p>
@@ -72,10 +70,3 @@ As a Chengduer, I'm so obsessed with HotPot, and so are my friends. They are my 
 <img src="/./about_files/HotPot.jpeg" alt="A Photo of Our HotPot Union " title=" We played a trick on the absent friend who was in Japan for college at that time " width="80%" height="80%"/>
 <center><div style=" color: gray; font_size: 75%">"HotPot" Friends: in Memory of our absent "inmate" </div></center>
 <h3 id="#Girlfriend">Girlfriend</h3>
-<p>
-Secret
-</p>
-<h2 id="#Family">Family</h2>
-<p>
-Secret as well
-</p>
