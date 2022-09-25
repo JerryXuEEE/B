@@ -69,4 +69,4 @@ As a Chengduer, I'm so obsessed with HotPot, and so are my friends. They are my 
 </p>
 <img src="/./about_files/HotPot.jpeg" alt="A Photo of Our HotPot Union " title=" We played a trick on the absent friend who was in Japan for college at that time " width="80%" height="80%"/>
 <center><div style=" color: gray; font_size: 75%">"HotPot" Friends: in Memory of our absent "inmate" </div></center>
-<h3 id="#Girlfriend">Girlfriend</h3>
+
