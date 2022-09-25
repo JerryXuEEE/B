@@ -28,7 +28,7 @@ This abstract was accepted in 2021.12.15. The conference took place in Glasgow i
 <p>
 This research is about the neural asymmetry of pianists and guitarists. We recruited 10 guitarists, 10 pianists and 10 nonmusicians and collected their EEG signals when performing a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm. 
 </p>
-
+<img src="/./about_files/OHBM.jpg" title="OHBM Results"/>
 <p>
 In behavioral analysis, pianists demonstrate significantly shorter response time in bimanual task. In bimanual task，frontal and parietal areas in guitarists and pianists have higher intensity. More prominent asymmetric connectivity in FPN could be observed in guitarists</p>
 
