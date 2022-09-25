@@ -10,8 +10,8 @@ tags: []
 <h2>Page Navigation Menu</h2>     
     <ul>
         <li><a href="#Ach1"> OHBM (Organization of Human Brain Mapping)<br><span style="font-size:90%">The Neural Asymmetry Deviations Between Guitarists and Pianists</span></a></li>
-        <li><a href="#Ach2">Journal Article(At Press)<br><span style="font-size:90%">Different Music Training Modulates Theta Oscillation Associated with Executive Control</span></a></li>
-        <li><a href="#Ach3">National Academic Conference of Psychology</li>                      
+        <li><a href="#Ach2">Journal Article(Accepted)<br><span style="font-size:90%">Different Music Training Modulates Theta Oscillation Associated with Executive Control</span></a></li>
+        <li><a href="#Ach3">National Academic Conference of Psychology</a></li>                      
     </ul>        
 
 <h2>Publishments </h2>
