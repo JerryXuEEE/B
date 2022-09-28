@@ -11,7 +11,8 @@ tags: []
     <ul>
         <li><a href="#Ach1"> OHBM (Organization of Human Brain Mapping)<br><span style="font-size:90%">The Neural Asymmetry Deviations Between Guitarists and Pianists</span></a></li>
         <li><a href="#Ach2">Journal Article(Accepted)<br><span style="font-size:90%">Different Music Training Modulates Theta Oscillation Associated with Executive Control</span></a></li>
-        <li><a href="#Ach3">National Academic Conference of Psychology</a></li>                      
+        <li><a href="#Ach3">National Academic Conference of Psychology</a></li>  
+        <li> <a href="Ach4">CMST: Brain-wave Music and Fatigue</a></li>                    
     </ul>        
 
 <h2>Publishments </h2>
@@ -36,16 +37,23 @@ In behavioral analysis, pianists demonstrate significantly shorter response time
 <p>
 This article has already been published by <em>Brain Sciences</em> at 2022,9.28 in the section of Behavorial Neuroscience foucing on the Basis of Executive Control, which discribes the ability that our brain instructs the motion and some other elements. In this study, we continously recuited 20 string musicians, 20 pianists and 20 non-musicians to conduct a Hand Coordination Paradigm, a Bimual Pressing Task paradigm and a N-back Paradigm while collecting their neural activity by EEG.  
 </p>
-<img src="/./about_files/B1.jpg" title="Brain Sciences Time-frequency Results"/>
+<img src="/./about_files/B2.jpg" title="Brain Sciences Time-frequency Results"/>
 <p>
 In the data anlysis, we applied ERP (Event-related potentials), time-frequency analysis, and functional connectivity. In ERP anlysis, we found that pianists have significantly earlier and lower P2 components. This result was supported by many other researches about executive function comparison. Then in time-frequency analysis, we found that pianists outperformed string musicians in theta power in 500-800ms after the stimulus. This implies that the pianists have greater theta activity. It could result from their bimanual training scheme, which requires much more focus and correlation. These are all fundamental elements in executive control. Therefore, we believe that different music training could relate to executive function in theta oscillation to different content. This is futher verified by functional connectivity, in which we applied executive control model and found that the frontal-parietal connectivity has been greatly enhanced in the pianists. We also found asymmetric connectivity. 
 </p>
-<img src="/./about_files/B2.jpg" title="Brain Sciences Functional Connectivity Results"/>
+<img src="/./about_files/B3.jpg" title="Brain Sciences Functional Connectivity Results"/>
 
 <h3 id="Ach3">National Academic Conference of Psychology</h3>
 <p>
 This abstract was accepted by the conference at 2022.7. I will be presenting this report at the Henan Normal University in 2022,11,25. Afterwards, the abstract will be published on the cnki.net.
 </p>
 <p>
-This article is about the executive control in musicians compared with non-musicians. This article will be published after the report.
+This article is about the executive control in musicians compared with non-musicians. 
+</p>
+<h3 id="Ach4">CMST: Brain-wave Music and Fatigue</h3>
+<p>
+This abstract was accepted by the conference CSMT at 2021.6. This research is about the effect brain wave music could bring to fatigue.
+</p>
+<p>
+Brain Wave music are translated from EEG signals. This music could reflect the corresonding mood. This article explores the effect on the fatigue. In this research, I'm mainly responsible for the data collection since this is my first year in this lab. Later, I helped out with the data anlysis in the preprocessing, including filtering the signal, average, ICA and source location. 
 </p>
