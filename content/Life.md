@@ -70,3 +70,6 @@ As a Chengduer, I'm so obsessed with HotPot, and so are my friends. They are my 
 <img src="/./about_files/HotPot.jpeg" alt="A Photo of Our HotPot Union " title=" We played a trick on the absent friend who was in Japan for college at that time " width="80%" height="80%"/>
 <center><div style=" color: gray; font_size: 75%">"HotPot" Friends: in Memory of our absent "inmate" </div></center>
 
+<h2>THis session is written for <span style = "color:pink">小杨</span></h2>
+<p>We met each other through an experimetn intended for Sichuan Conservatory of Music. She is majoring in Muisic Education. </p>
+<img src="/./about_files/Yang.jpg" alt="A Photo of My Girlfriend " title="Say Hello~ "/>
