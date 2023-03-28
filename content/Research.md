@@ -19,8 +19,8 @@ tags: []
 <ul>
     <li>Junce Wang*,  <strong>Ruijie Xu*</strong>, Xiaolong Guo, et al. 'Different music training modulates theta brain oscillations as-sociated with executive function' <em>Brain Sciences</em>, 2022.<a href="https://www.mdpi.com/2076-3425/12/10/1304">[Link]</a> </li>
     <li> <strong>Ruijie Xu</strong>, Junchen Zhou, Siqi Liu, et al. 'The Neural Asymmetry Deviations between Guitarists and Pianists' 2021. <em>OHBM</em> (Conference Abstract) <a href="https://osf.io/emcb3">[PDF]</a> </li>
-    <li> <strong>Ruijie Xu</strong>,  Junce Wang, Xiaolong Guo, et al. 'Piano training modulates theta oscillations on executive control' 2022. <em>National Academic Conference of Psychology</em> (Conference Abstract) 
-    <li> Junce Wang,  <strong>Ruijie Xu</strong>, Binxin Huang, et al. 'Brain wave music influences fatigue: effect and mechanism' 2021. <em>CSMT</em> (Conference Abstract)           
+    <li> <strong>Ruijie Xu</strong>,  Junce Wang, Xiaolong Guo, et al. 'Piano training modulates theta oscillations on executive control' 2022. <em>National Academic Conference of Psychology</em> (Conference Abstract) </li>
+    <li> Junce Wang,  <strong>Ruijie Xu</strong>, Binxin Huang, et al. 'Brain wave music influences fatigue: effect and mechanism' 2021. <em>CSMT</em> (Conference Abstract)  <a href=https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nsj8_yaa04O-0yNM_dMwulEVVd4FV8sgIO0Np6Sntd9uni3mKp5qmu&uniplatform=NZKPT>[PDF]</a></li>      
 </ul>
 <h2 id="Achievement2">Publishments </h2>
 <h3 id="Ach1">The Neural Asymmetry Deviations Between Guitarists and Pianists <em> OHBM (Organization of Human Brain Mapping)</em></h3>
